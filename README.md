@@ -1,6 +1,4 @@
 # Web-based_Malaria_Detection
-We deployed the trained model into a web browser to enable running the model at reduced computational cost and alleviate issues due to the complex backend. 
-
-https://tanthanakorn2541.github.io/Web-based_Malaria_Detection.github.io
+We deployed the trained model into a web browser to enable running the model at reduced computational cost and alleviate issues due to the complex backend. We used JavaScript refers to the Decision Tree with optimal histogram-enabled HSV features (DT-OP-HIST). Which, the visualization of the DT-OP-HIST result is shown in > the Visualize a Decision_Tree-OP-HIST.pdf. To develop a client-side-only app that uses a web browser to execute the model within code and named the application as Web-based Malaria Detection to which the user submits an image of the parasitized/uninfected cells and the model embedded into the browser gives the predictions. at https://tanthanakorn2541.github.io/Web-based_Malaria_Detection.github.io
 
 ### You can download images from the unseen testing folder to test the web for detecting malaria
